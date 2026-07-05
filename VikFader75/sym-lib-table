@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PTA2043-2010CIB103")(type "KiCad")(uri "C:/Users/spenc/Code/VIK-Fader/vik-fader.pretty/PTA2043-2010CIB103.kicad_sym")(options "")(descr ""))
+  (lib (name "PTA6043-2015DPB103")(type "KiCad")(uri "C:/Users/spenc/Code/VIK-Fader/vik-fader.pretty/PTA6043-2015DPB103.kicad_sym")(options "")(descr ""))
+  (lib (name "vik")(type "KiCad")(uri "C:/Users/spenc/Code/VIK-Fader/vik-fader.pretty/vik.kicad_sym")(options "")(descr ""))
+)
