@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1µF,C_0603_1608Metric,196.135,-49.11,0.0,bottom
+C2,0.1µF,C_0603_1608Metric,195.38,-70.79,180.0,bottom
+C3,0.1µF,C_0603_1608Metric,210.925,-49.25,0.0,bottom
+C4,0.1µF,C_0603_1608Metric,226.07,-49.2,0.0,bottom
+C5,0.1µF,C_0603_1608Metric,241.18,-49.25,0.0,bottom
+J1,vik-module-connector,vik-module-connector-horizontal,231.2885,-66.8,90.0,bottom
+R2,10kΩ,C_0603_1608Metric,199.65,-67.115,90.0,bottom
+R3,10kΩ,C_0603_1608Metric,198.12,-67.11,90.0,bottom
+R4,100Ω,C_0603_1608Metric,196.14,-47.59,180.0,bottom
+R6,100Ω,C_0603_1608Metric,210.92,-47.67,180.0,bottom
+R7,100Ω,C_0603_1608Metric,226.065,-47.63,180.0,bottom
+R9,100Ω,C_0603_1608Metric,241.18,-47.68,180.0,bottom
+U1,ADS1015IDGS,TSSOP-10_3x3mm_P0.5mm,194.9,-67.0625,180.0,bottom

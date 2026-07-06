@@ -153,7 +153,7 @@
 		(path "/bb62a5ed-b3d9-41ed-86ee-01d77329670b")
 		(sheetname "/")
 		(sheetfile "VikFader75.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.5 -1.5)
 			(end -1.5 -1.5)
@@ -547,7 +547,7 @@
 		(path "/fd8f6d51-9b34-432d-9f7f-de61edb5cad1")
 		(sheetname "/")
 		(sheetfile "VikFader75.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -37.5 -4.5)
 			(end -32.995 -4.5)
@@ -896,6 +896,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C1591"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "bdf33f95-4a8b-4326-ae77-f2186293c4d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/3e5c6fb2-7f2c-45fb-ae34-10f1c8acff27")
 		(sheetname "/")
@@ -1098,6 +1110,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2930027"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "cae49412-7b14-47ed-92f0-0e24893bca4d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "R_*")
@@ -1303,6 +1327,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2906115"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "b4d0cc5b-3e4a-4d69-bb9e-fafd8102e36b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(path "/573206cd-fd64-4ee9-b143-5d60725b9548")
@@ -1644,7 +1680,7 @@
 		(sheetname "/")
 		(sheetfile "VikFader75.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
 			(start -0.15 0.75)
 			(end 0.15 -0.75)
@@ -1834,7 +1870,7 @@
 		(sheetname "/")
 		(sheetfile "VikFader75.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
 			(start -0.15 0.75)
 			(end 0.15 -0.75)
@@ -2014,6 +2050,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2930027"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "dbd39002-1e1b-40a1-b1ac-533e9667b004")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "R_*")
@@ -2220,6 +2268,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C2906981"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "e8312ac5-385d-44da-a633-49810cf65b96")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/eebac823-5186-484b-a039-2a49b87fce57")
 		(sheetname "/")
@@ -2423,6 +2483,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C1591"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "b9d9b96d-a18e-434f-8fc8-48efdc5824f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "C_*")
@@ -2631,7 +2703,7 @@
 		(path "/f29dd404-5d23-49f2-951a-ff0695cc1080")
 		(sheetname "/")
 		(sheetfile "VikFader75.kicad_sch")
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0.01 -0.0025)
 			(end 3.2599 -0.0025)
@@ -3067,7 +3139,7 @@
 		(sheetname "/")
 		(sheetfile "VikFader75.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
 			(start -0.15 0.75)
 			(end 0.15 -0.75)
@@ -3251,7 +3323,7 @@
 		(path "/3d868f22-8712-41c5-978a-6884b882b37d")
 		(sheetname "/")
 		(sheetfile "VikFader75.kicad_sch")
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0.01 -0.0025)
 			(end 3.2599 -0.0025)
@@ -3680,6 +3752,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C2906115"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "2c792b34-fbcd-4a13-9891-299b2c0a5768")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/77c14256-c5d5-486b-b074-6a786d7cd745")
 		(sheetname "/")
 		(sheetfile "VikFader75.kicad_sch")
@@ -4011,6 +4095,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C37593"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "9a65bfe7-e260-4106-aabe-567719f2193f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "TSSOP*3x3mm*P0.5mm*")
@@ -4358,7 +4454,7 @@
 		(sheetname "/")
 		(sheetfile "VikFader75.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
 			(start -0.15 0.75)
 			(end 0.15 -0.75)
@@ -4548,7 +4644,7 @@
 		(sheetname "/")
 		(sheetfile "VikFader75.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(fp_rect
 			(start -0.15 0.75)
 			(end 0.15 -0.75)

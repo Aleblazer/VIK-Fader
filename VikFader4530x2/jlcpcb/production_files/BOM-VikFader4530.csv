@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC,Quantity
+0.1µF,"C1,C2,C3",C_0603_1608Metric,C1591,3
+100Ω,"R4,R6",C_0603_1608Metric,C2906981,2
+10kΩ,"R2,R3",C_0603_1608Metric,C2930027,2
+ADS1015IDGS,U1,TSSOP-10_3x3mm_P0.5mm,C37593,1
+vik-module-connector,J1,vik-module-connector-horizontal,C2906115,1
+Conn_01x04_Pin,J3,PinHeader_1x04_P2.00mm_Vertical,,1

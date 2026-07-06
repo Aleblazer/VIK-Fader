@@ -159,7 +159,7 @@
 		(path "/bb62a5ed-b3d9-41ed-86ee-01d77329670b")
 		(sheetname "/")
 		(sheetfile "VikFader4530x4.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.5 -1.5)
 			(end -1.5 7.5)
@@ -553,7 +553,7 @@
 		(path "/b92c7c17-caf7-478a-b940-89ab147eaa5a")
 		(sheetname "/")
 		(sheetfile "VikFader4530x4.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -22.5 4.5)
 			(end -22.5 2.97)
@@ -1077,7 +1077,7 @@
 		(path "/58dddb3a-4008-42ae-9572-88a994f27fc6")
 		(sheetname "/")
 		(sheetfile "VikFader4530x4.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -22.5 4.5)
 			(end -22.5 2.97)
@@ -1601,7 +1601,7 @@
 		(path "/fd8f6d51-9b34-432d-9f7f-de61edb5cad1")
 		(sheetname "/")
 		(sheetfile "VikFader4530x4.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -22.5 4.5)
 			(end -22.5 2.97)
@@ -2129,7 +2129,7 @@
 		(path "/2f434035-a6f9-4076-b538-19cfc2096457")
 		(sheetname "/")
 		(sheetfile "VikFader4530x4.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -22.5 4.5)
 			(end -22.5 2.97)
@@ -2478,6 +2478,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C1591"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "5e34765e-bb13-4e22-b25d-9d080f7241ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/3e5c6fb2-7f2c-45fb-ae34-10f1c8acff27")
 		(sheetname "/")
@@ -2680,6 +2692,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2930027"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "b27501c3-3612-402f-a0e0-938755295cf5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "R_*")
@@ -2885,6 +2909,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2906115"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "0a6d6587-c5ec-4de4-9812-06d62e669c8f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(path "/573206cd-fd64-4ee9-b143-5d60725b9548")
@@ -3207,6 +3243,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C1591"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "5f70ad71-4d4a-4122-a39b-bf7bde141f85")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1329a554-5185-4dcf-9a85-e1a4ae88450a")
 		(sheetname "/")
@@ -3411,6 +3459,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C2930027"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "afc518d1-3b7a-4124-9c31-954d720531aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8ae00acd-d54b-4adf-85d7-73d4589ec332")
 		(sheetname "/")
@@ -3613,6 +3673,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2906981"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "142ac586-14b0-43ae-87e8-44dd3129f8ea")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "R_*")
@@ -3820,6 +3892,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C1591"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "6457732e-729d-43bb-8d90-02d69376b31c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/243fe4b1-8942-4211-ab29-44444fbd7aa2")
 		(sheetname "/")
@@ -4022,6 +4106,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C1591"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "a40d9441-1a1b-4d9f-b36a-6068c0bf8e32")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "C_*")
@@ -4230,7 +4326,7 @@
 		(path "/139022e7-a92e-465a-aa22-59f6e3343cb7")
 		(sheetname "/")
 		(sheetfile "VikFader4530x4.kicad_sch")
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0.01 -0.0025)
 			(end 3.2599 -0.0025)
@@ -4660,7 +4756,7 @@
 		(path "/f29dd404-5d23-49f2-951a-ff0695cc1080")
 		(sheetname "/")
 		(sheetfile "VikFader4530x4.kicad_sch")
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0.01 -0.0025)
 			(end 3.2599 -0.0025)
@@ -5088,6 +5184,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C2906981"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "0650e28a-62a7-4acf-a413-7dfb55277594")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c703c5d9-3302-45c1-bece-26b0ca93e5e5")
 		(sheetname "/")
@@ -5290,6 +5398,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2906981"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "4915c2ea-84ca-4a55-af37-b1436a2954c1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "R_*")
@@ -5498,7 +5618,7 @@
 		(path "/a4e43672-469a-44b4-964d-d4b779b2b27e")
 		(sheetname "/")
 		(sheetfile "VikFader4530x4.kicad_sch")
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0.01 -0.0025)
 			(end 3.2599 -0.0025)
@@ -5928,6 +6048,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C37593"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "9284f9d8-5287-4ec4-a405-7493dab05836")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TSSOP*3x3mm*P0.5mm*")
 		(path "/cf33c4b1-51d8-48a6-a31a-3e7d0eecab20")
 		(sheetname "/")
@@ -6266,6 +6398,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C1591"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "df4d4501-a67e-4dd7-ba7a-a92948f47edb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a7c3c565-1fea-4339-8edc-58ab11a1bb07")
 		(sheetname "/")
@@ -6468,6 +6612,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2906981"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "f5253e21-d973-43da-a13e-2cce3e3dfb98")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "R_*")
@@ -6675,7 +6831,7 @@
 		(path "/e3130fde-2cf1-41fc-a003-c2b3b1e047ab")
 		(sheetname "/")
 		(sheetfile "VikFader4530x4.kicad_sch")
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0.01 -0.0025)
 			(end 3.2599 -0.0025)

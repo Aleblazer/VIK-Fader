@@ -5555,7 +5555,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ADS1015IDGS"
+		(property "Value" "ADS1115IDGS"
 			(at 47.8633 24.13 0)
 			(effects
 				(font
