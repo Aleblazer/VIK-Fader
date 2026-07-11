@@ -1,7 +1,9 @@
 Comment,Designator,Footprint,LCSC,Quantity
-0.1µF,"C1,C2",C_0603_1608Metric,C1591,2
-100Ω,R4,C_0603_1608Metric,C2906981,1
-10kΩ,"R2,R3",C_0603_1608Metric,C2930027,2
-ADS1015IDGS,U1,TSSOP-10_3x3mm_P0.5mm,C37593,1
+0.1µF,"C1,C2",C_0603_1608Metric,C14663,2
+100kΩ,R6,R_0603_1608Metric,C25803,1
+100Ω,R4,R_0603_1608Metric,C22775,1
+10kΩ,"R2,R3,R7",R_0805_2012Metric,C17414,3
+1kΩ,R5,R_0603_1608Metric,C21190,1
+ADS1115IDGS,U1,TSSOP-10_3x3mm_P0.5mm,C37593,1
+DMG2305UX,Q1,SOT-23,C2940629,1
 vik-module-connector,J1,vik-module-connector-horizontal,C2906115,1
-~,J2,vik-keyboard-connector-horizontal,C2906115,1

@@ -3371,7 +3371,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 92.202 68.58 90)
 			(effects
 				(font
@@ -3715,7 +3715,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 44.958 82.55 90)
 			(effects
 				(font
@@ -4093,7 +4093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 56.642 31.75 90)
 			(effects
 				(font
@@ -4374,7 +4374,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 89.662 68.58 90)
 			(effects
 				(font
@@ -4616,13 +4616,13 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 39.37 90.17 90)
+		(at 39.37 90.17 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cd84b210-e82e-49ee-8d55-0a265d4d9ee8")
 		(property "Reference" "R5"
 			(at 39.37 83.82 90)
@@ -4640,7 +4640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 39.37 91.948 90)
 			(effects
 				(font
@@ -4868,7 +4868,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 44.45 144.018 90)
 			(effects
 				(font

@@ -1,4 +1,4 @@
-26718593144210035
+26720376272582986
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107290,6 +107290,13 @@ Varistor VF
 2
 vik-fader
 TRIM_PTA2043-2010CIB103
+
+
+0
+7
+7
+vik-fader
+TRIM_PTA3043-2010CPB103
 
 
 0
